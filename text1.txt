@@ -1,1 +1,2 @@
 bu birinci dosyamiz olsun.
+bu da yapilan bir degisiklik olsun.
